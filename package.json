@@ -1,5 +1,5 @@
 {
-  "name": "public-holidays",
+  "name": "@mobylogix/public-holidays",
   "version": "0.1.1",
   "description": "Public holidays by country. Readonly from google calendar.",
   "main": "./lib/index.js",
@@ -11,19 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mitica/public-holidays-js.git"
+    "url": "https://github.com/mobylogix/public-holidays-js"
   },
   "keywords": [
     "holidays",
     "google",
     "calendar"
   ],
-  "author": "Dumitru Cantea",
+  "author": "Arslan Nasir",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mitica/public-holidays-js/issues"
+    "url": "https://github.com/mobylogix/public-holidays-js/issues"
   },
-  "homepage": "https://github.com/Mitica/public-holidays-js#readme",
+  "homepage": "https://github.com/mobylogix/public-holidays-js#readme",
   "dependencies": {
     "ical": "^0.5.0",
     "request": "^2.81.0"

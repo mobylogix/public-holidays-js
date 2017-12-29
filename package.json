@@ -1,6 +1,6 @@
 {
   "name": "@mobylogix/public-holidays",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Public holidays by country. Readonly from google calendar.",
   "main": "./lib/index.js",
   "scripts": {
